@@ -1,5 +1,5 @@
 "use strict"; 
-
+//czy tu nie brakuje require i jquery?
 let synth; 
 
   
